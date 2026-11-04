@@ -30,6 +30,12 @@ No build step or server is needed.
 - `to-do-list.css` — styles
 - `to-do-list.js` — app logic
 
+## What I Learned
+
+- Creating and removing DOM elements with JavaScript
+- Handling click events on buttons
+- Reading and clearing input field values
+
 ## Author
 
 Dhruv Patel — [GitHub](https://github.com/DhruvPatel3125)
