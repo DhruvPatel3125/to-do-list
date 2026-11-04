@@ -6,6 +6,11 @@ A simple to-do list web app built with HTML, CSS and vanilla JavaScript.
 
 This is one of my early practice projects for learning front-end fundamentals — DOM manipulation, event handling and basic styling — without any frameworks or libraries.
 
+## Features
+
+- Add new tasks to the list
+- Delete individual tasks using the delete button on each item
+
 ## How to Run
 
 1. Clone this repository.
