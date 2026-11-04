@@ -18,3 +18,13 @@ No build step or server is needed.
 - HTML
 - CSS
 - JavaScript
+
+## Project Structure
+
+- `to-do-list.htm` — page markup
+- `to-do-list.css` — styles
+- `to-do-list.js` — app logic
+
+## Author
+
+Dhruv Patel — [GitHub](https://github.com/DhruvPatel3125)
